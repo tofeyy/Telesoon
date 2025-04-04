@@ -6,10 +6,10 @@
 
     "ads_free": "",
 
-    "admob_id": "ca-app-pub",
-    "admob_app_open": "ca-app-pub",
-    "admob_interstitial": "ca-app-pub",
-    "admob_native": "ca-app-pub",
+    "admob_id": "ca-app-pub-4195865937903062~4901031980",
+    "admob_app_open": "/4195865937903062/2122677987/ellipi.messenger_AppOpen_Rasool",
+    "admob_interstitial": "/4195865937903062/2122677987/ellipi.messenger_Interstitial_Rasool",
+    "admob_native": "",
 
     "ads_native_main": "true",
     "ads_native_chat": "false",
@@ -38,5 +38,5 @@
 
     "mini_alert": "true",
     "mini_text": "قم بتسجيل الدخول للقناة للحصول على اخر التحديثات",
-    "mini_link": "https://t.me/B_G_GG"
+    "mini_link": "https://t.me/Tofey_Official"
 }
