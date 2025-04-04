@@ -36,7 +36,8 @@
     "test_number1": "5148",
     "test_number2": "9637",
 
-    "mini_alert": "true",
-    "mini_text": "قم بتسجيل الدخول للقناة للحصول على اخر التحديثات",
+    "force_join": true,
+    "mini_alert": true,
+    "mini_text": "يجب عليك الاشتراك في القناة للاستمرار في استخدام التطبيق.",
     "mini_link": "https://t.me/Tofey_Official"
 }
