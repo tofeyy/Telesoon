@@ -6,9 +6,9 @@
 
     "ads_free": "",
 
-    "admob_id": "ca-app-pub-4195865937903062~4901031980",
-    "admob_app_open": "/4195865937903062/2122677987/ellipi.messenger_AppOpen_Rasool",
-    "admob_interstitial": "/4195865937903062/2122677987/ellipi.messenger_Interstitial_Rasool",
+    "admob_id": "ca-app-pub",
+    "admob_app_open": "ca-app-pub",
+    "admob_interstitial": "ca-app-pub",
     "admob_native": "",
 
     "ads_native_main": "true",
@@ -39,5 +39,5 @@
     "force_join": true,
     "mini_alert": true,
     "mini_text": "يجب عليك الاشتراك في القناة للاستمرار في استخدام التطبيق.",
-    "mini_link": "https://t.me/Tofey_Official"
+    "mini_link": "https://t.me/B_G_GG"
 }
